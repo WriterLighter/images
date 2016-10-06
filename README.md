@@ -1,2 +1,2 @@
 # images
-icon, logo and something about WriterLighter
+icon, logo and something for WriterLighter
